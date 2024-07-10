@@ -8,10 +8,10 @@ public class Main {
 		
 		//***********************************************//
 		// Posição de deslocamento da letra
-		int posicao = 12;
+		int posicao = 10;
 		
 		//Frase a ser codificada
-		String palavraTeste = "Teste de palavra XX";
+		String palavraTeste = "Frase XXYYZZ Teste";
 	
 		//*************************************************//
 		
